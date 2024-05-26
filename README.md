@@ -8,6 +8,8 @@ Version 0.2.0
 
 To Start
 
-- start up mongodb and mongo express service conatainers: > docker-compose up
-- if needed, recreate docker containers: > docker-compose down
+- start up mongodb and mongo express service conatainers:
+ > docker-compose up
+- if needed, recreate docker containers:
+ > docker-compose down
 - run ChatApplication.java
